@@ -1,9 +1,5 @@
 # Hi there, I'm Sorasak! 👋
 
-<p align="center">
-  <img src="https://vercel.app" />
-</p>
-
 ### 👤 About Me
 - 🔭 **ปัจจุบันกำลังทำ:** เรียนรู้และพัฒนาพัฒนาเว็บไซต์ / โปรเจกต์โปรแกรมมิ่ง
 - 🌱 **กำลังศึกษาเรื่อง:** Web Development และเทคโนโลยีใหม่ๆ
