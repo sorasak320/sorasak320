@@ -1,4 +1,4 @@
-Hi 👋 My name is Sorasak Phomkong
+Hi 👋 My name is Sorasak Phomkong (สรศักดิ์ ผอมคง)
 =================================
 
 * 🌍  I'm based in Bangkong
